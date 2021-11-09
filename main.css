@@ -1,0 +1,13 @@
+.content {
+    color: #002f4d;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #002f4d;
+    color:white;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
